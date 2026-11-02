@@ -4,7 +4,7 @@ permalink: status.html
 sidebar: mydoc_sidebar
 tags: [getting_started]
 keywords: 
-last_updated: November 1, 2026
+last_updated: November 2, 2026
 summary: 
 toc: false
 folder: mydoc
@@ -14,7 +14,7 @@ folder: mydoc
 
 ## Current To-Do List 
 
-The following pages are actively being updated and/or worked on. 
+The following pages are actively being updated and/or worked on. The information is incomplete on these pages. Newest version changes are noted [here](changelogs.html). 
 
 ### Overview <span class="label label-danger">Work In Progress</span>
 - About the Author

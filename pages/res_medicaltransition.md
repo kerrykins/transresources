@@ -37,7 +37,7 @@ Supportive medical care includes procedures such as:
 - Fertility (sperm/egg storage)
   - Some treatments may affect fertility. Some will consider cryopreservation before starting treatments. 
 
-{% include note.html content="Note that many supportive medical care procedures are *not* covered by OHIP, such as fertility, speech therapy, or hair removal. If you have secondary private insurance, they may cover this partially or fully." %}
+{% include note.html content="Many supportive medical care procedures are *not* covered by OHIP, such as fertility, speech therapy, or hair removal. If you have secondary private insurance, they may cover this partially or fully." %}
   
 ## Recommended Reading For Medical Transition 
 

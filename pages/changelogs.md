@@ -11,6 +11,22 @@ folder: mydoc
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
 
+## 1.0.33
+
+[**res_medicaltransition**](res_medicaltransition.html) 
+- Fixed clunky wording in an alert.
+
+[**status**](status.html)
+- Updated wording that is describing the page.
+
+[**res_shortcomings**](shortcomings.html)
+- Split sections into type of provider
+  - Added information for physicians and surgeons
+  - Added information for nurses
+  - Added information for pharmacists
+- Added new heading for complaints form/portal for each of the three regulatory bodies
+- Added new heading for the Patient Ombudsman
+
 ## 1.0.32
 
 **london_pharmacy**
