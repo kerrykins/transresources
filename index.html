@@ -158,7 +158,7 @@ toc: false
 
     </div>
 
-        <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["organisations"]'>
+        <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["hrt"]'>
 
              <div class="panel panel-default">
                <div class="panel-heading">HRT</div>
@@ -167,7 +167,7 @@ toc: false
                   <ul>
                 {% for page in site.pages %}
                 {% for tag in page.tags %}
-                {% if tag == "organisations" %}
+                {% if tag == "hrt" %}
                      <li><a href="{{page.url | remove: '/'}}">{{page.title}}</a></li>
                 {% endif %}
                 {% endfor %}
