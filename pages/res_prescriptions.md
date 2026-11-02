@@ -11,7 +11,7 @@ permalink: res_prescriptions.html
 
 {% include warning.html content="This section is a work in progress." %}
 
-## Switching Prescriptions in Ontario 
+## Switching Pharmacies in Ontario 
 
 {% include important.html content="In Canada, controlled substances such as **testosterone** cannot be transferred between pharmacies.  If you are on testosterone, you must ask your prescribing provider to send a new prescription to the new pharmacy. <br> <br> Estrogen, progesterone, and androgen blockers can be transferred normally." %}
 
