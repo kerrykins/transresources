@@ -95,6 +95,10 @@ entries:
     - title: Prescriptions 
       url: /res_prescriptions.html
       output: web, pdf
+      
+    - title: Medical Provider Shortcomings 
+      url: /res_shortcomings.html
+      output: web, pdf
 
     - title: Other Resource Collections 
       url: /res_others.html
