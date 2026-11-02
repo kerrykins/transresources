@@ -6,6 +6,7 @@ last_updated: November 2, 2026
 summary: "Tips and other resources related to getting your prescriptions."
 sidebar: mydoc_sidebar
 permalink: res_prescriptions.html
+author: Kerry 
 
 ---
 
@@ -58,4 +59,3 @@ TBA
 #### Example: Estradot (estradiol patches)
 
 TBA
-
