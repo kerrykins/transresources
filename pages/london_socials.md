@@ -20,7 +20,7 @@ datatable: true
 | **Aeolian Pride Choruses** | <span class="label label-default">Social</span> <br> <span class="label label-success">Music & Dance</span> | <a href="#" data-toggle="tooltip" data-original-title="Additional dates and times for performance dates and dress rehearsals.">Sunday 7pm-9:30pm</a> <br> (Rehearsals)| | <a href="#" data-toggle="tooltip" data-original-title="$60 per season. **Sliding scale available.**">✘</a> |
 | **Board Game Social** <br> *by QX* | <span class="label label-default">Social</span> | | Crouch Library | ✔ | 
 | **Book Club** <br> *by QX* | <span class="label label-default">Social</span> | | Central Library | ✔ | |
-| **Gay Guys Book Club** *by London Public Library* | <span class="label label-default">Social</span> | <a href="#" data-toggle="tooltip" data-original-title="Except July, August, September">2nd Tuesday</a> <br> 7pm-8:30pm| Central Library | ✔ |
+| **Gay Guys Book Club** <br> *by London Public Library* | <span class="label label-default">Social</span> | <a href="#" data-toggle="tooltip" data-original-title="Except July, August, September">2nd Tuesday</a> <br> 7pm-8:30pm| Central Library | ✔ |
 | **Jr Youth Group** <br> *by pflag* | <span class="label label-default">Social</span> <br> <span class="label label-fourth">Youth (7-13)</span> | 2nd Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> | ✔ |
 | **Karaoke for Homosexuals** <br> *by Honey Dip* | <span class="label label-default">Social</span> <br> <span class="label label-success">Music & Dance</span> | 1st Wednesday <br> 6pm-12am | Honey Dip | ✔ | 
 | **London Lesbian Film Festival** | | | | | | |

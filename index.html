@@ -30,7 +30,8 @@ toc: false
       <button class="btn btn-primary" data-group="medical_care">Medical Care</button>
       <button class="btn btn-primary" data-group="social">Social</button>
       <button class="btn btn-primary" data-group="LondonON">London Specific</button>
-	  <button class="btn btn-primary" data-group="single_sourcing">Organisations</button>
+	  <button class="btn btn-primary" data-group="organisations">Organisations</button>
+	  <button class="btn btn-primary" data-group="hrt">HRT</button>
     </div>      
 
 <div id="grid" class="row">
@@ -143,6 +144,26 @@ toc: false
                <div class="panel-heading">Organisations</div>
                <div class="panel-body">
                   A list of trans-friendly organisations. 
+                  <ul>
+                {% for page in site.pages %}
+                {% for tag in page.tags %}
+                {% if tag == "organisations" %}
+                     <li><a href="{{page.url | remove: '/'}}">{{page.title}}</a></li>
+                {% endif %}
+                {% endfor %}
+                {% endfor %} 
+                  </ul>
+               </div>
+            </div>
+
+    </div>
+
+        <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["organisations"]'>
+
+             <div class="panel panel-default">
+               <div class="panel-heading">HRT</div>
+               <div class="panel-body">
+                  A list of resources related to hormone replacement therapy. 
                   <ul>
                 {% for page in site.pages %}
                 {% for tag in page.tags %}

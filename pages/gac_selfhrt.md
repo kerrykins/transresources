@@ -4,6 +4,7 @@ tags: [medical_care]
 keywords: 
 last_updated: October 31, 2026
 summary: "Resources and harm reduction related to self-medicating HRT."
+tags: [medical_care, hrt]
 sidebar: mydoc_sidebar
 permalink: gac_selfhrt.html
 datatable: true

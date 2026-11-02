@@ -196,6 +196,10 @@ entries:
           url: /tag_resources.html
           output: web
           
+        - title: HRT Pages
+          url: /tag_hrt.html
+          output: web
+          
           
 
  # Copyright 2021 Google LLC
