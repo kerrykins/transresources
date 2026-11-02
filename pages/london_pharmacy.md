@@ -1,6 +1,6 @@
 ---
 title: Compounding Pharmacies
-tags: [medical_care, hrt]
+tags: [medical_care, hrt, LondonON]
 keywords: 
 last_updated: November 1, 2026
 summary: "Pharmacies that have provided drug compounding services to the London, ON trans community."
