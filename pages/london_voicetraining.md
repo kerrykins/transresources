@@ -8,8 +8,6 @@ sidebar: mydoc_sidebar
 permalink: london_voice.html
 ---
 
-{% include warning.html content="This section is a work in progress." %}
-
 {% include note.html content="This list only includes providers accessible to London, ON residents" %} 
 
 ## Vocal Coaches

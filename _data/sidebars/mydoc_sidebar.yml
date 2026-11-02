@@ -43,6 +43,10 @@ entries:
     - title: FAQ
       url: /about.html
       output: web, pdf
+      
+    - title: Guide Status
+      url: /status.html
+      output: web, pdf
 
   - title: Organisations
     output: web, pdf
@@ -160,7 +164,7 @@ entries:
       url: /london_clothing.html
       output: web, pdf
 
-    - title: Queer & Trans Socials
+    - title: Trans & Queer Social Life
       url: /london_social.html
       output: web, pdf
 
