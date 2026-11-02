@@ -49,7 +49,7 @@ Even though this section includes non-London, ON locations, I've decided to incl
 | [Hive Health Services](https://guelphchc.ca/hivehealthservices/) <br> <span class="label label-danger">Pickup Only</span> | Guelph | Sterile single-use injection supplies <br> Sharps containers & disposal | Needle gauge/syringe sizes may vary. |
 | [MAX Ottawa Tea2Go](https://maxottawa.ca/programs-and-services/tea-to-go/) | Ottawa | Syringes <br> SubQ needles <br> IM needles <br> Alcohol swabs <br> Sharps bins | Pickups & Free shipping |
 | [Pieces to Pathways/Breakaway Community Services](https://breakawaycs.ca/programs/pieces-to-pathways/) | Toronto | Injection supplies | Pickups and delivery to West Downtown TO only |
-| [Planned Parenthood](https://ppt.on.ca/) <br> <span class="label label-danger">Pickup Only</span> | Toronto | Injection supplies |  | ~3 mths of injection supplies for age 13-29 <br> Does not need to be a PPT patient |
+| [Planned Parenthood](https://ppt.on.ca/) <br> <span class="label label-danger">Pickup Only</span> | Toronto | Injection supplies | ~3 mths of injection supplies for age 13-29 <br> Does not need to be a PPT patient | 
 | [Sherbourne Health HRT Bulk Order Program](https://forms.office.com/Pages/ResponsePage.aspx?id=GKOGaod_d0iziJ1ByX4JopRdL0vsJ1FLo5vJReNTWFBUOVdCUlVMMjE2T0g4OUhWTFM0WjdZNkNEMi4u&origin=QRCode) <br> <span class="label label-danger">Pickup Only</span> | Toronto | Injection Supplies <br> Alcohol Swabs <br> Sharps bins | 5 boxes (100 units/box) of syringes, needles of various sizes, alcohol swabs, sharp bins, and self-admin resources |
 
 ## Sources
