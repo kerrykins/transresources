@@ -31,7 +31,15 @@ TBA
 
 ### Checking Stock 
 
-TBA
+Most pharmacies do not publish their drug stock online. Thus, in most cases, you will need to call each pharmacy to inquire about their stock. Generally, pharmacies are quick to answer calls and will happily provide an update about their stock. To help steamline this, I recommend having the drug name and dose *and/or* the Drug Identification Number (DIN) on hand. 
+
+#### Drug Identification Number (DIN)
+
+You can find the DIN in a few places:
+
+1. Pharmacy receipts - your past pharmacy receipts will note the DIN. Find the number labelled 'DIN'. 
+2. Prescription bottle and/or packaging - the packaging and label will sometimes include the DIN.
+3. [Drug Product Database online query](https://health-products.canada.ca/dpd-bdpp/) - this query tool can be a bit overhwleming to use. You might be better off just typing into Google "<drug name> <dose> DIN". 
 
 ### Suggested Tips 
 
