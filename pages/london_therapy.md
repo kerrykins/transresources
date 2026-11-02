@@ -16,7 +16,7 @@ permalink: london_therapy.html
 
 | Name | Practitioner | Services | Specialty | Notes |
 | :------ | :------ | :------ | :------ | :------ | :------ |
-| Blueprint <br> Counselling | RP <br> RP(Q) <br> RSW <br> Student | Individual Therapy <br> Relationships <br> ADHD/ASD Assessment <br> Group Therapy <br> Art Therapy <br> Family Therapy | Trans <br> Queer | Queer-owned | 
+| [Blueprint Counselling](https://www.bpcounselling.com/) | RP <br> RP(Q) <br> RSW <br> Student | Individual Therapy <br> Relationships <br> ADHD/ASD Assessment <br> Group Therapy <br> Art Therapy <br> Family Therapy | Trans <br> Queer <br> ENM | Queer-owned | 
 | [Full Circle CTS](https://www.psychologytoday.com/ca/therapists/full-circle-counselling-therapy-services-london-on/802511) | | Individual Therapy <br> Couples Therapy | Neurodivergent | Free consult <br> $165 per session |
 | [Annie Murru](https://www.psychologytoday.com/ca/therapists/annie-murru-london-on/1377933) | RP(Q) | Individual Therapy <br> Group Therapy | Trans <br> Queer | Free consult <br> $150 per session <br> **Queer therapist** |
 | [Dakota Grass](https://www.psychologytoday.com/ca/therapists/dakota-grass-london-on/1238198) | RSW <br> RP(Q) | Individual Therapy <br> Couples Therapy | Queer | Free consult <br> $160 per session <br> Waitlist |

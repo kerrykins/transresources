@@ -18,6 +18,7 @@ permalink: london_injection.html
 | [North London Medical Pharmacy](https://nlmpharmacy.com/services.html) | Injection supplies | Contact pharmacy | ✔ | 
 | [LMC Pharmacy](https://aeswellnessportal.ca/Services/Display/199522/London) | Injection supplies | Contact pharmacy | ✔ | 
 | [True North Compounding](https://truenorthcompounding.ca/womens-health) | Injection supplies | Contact pharmacy | ✔ | 
+| [Yurek Pharmacy](https://yurekpharmacy.com/) | Injection supplies | Contact pharmacy | |
 | Walmart | Varying selections <br> You can buy alcohol swabs and bandages in store. | Varies | |
 
 
