@@ -3,7 +3,7 @@
 entries:
 - title: sidebar
   product: Gender-Affirming Resources
-  version: 1.0.22
+  version: 1.0.25
   folders:
 
   - title:
@@ -86,6 +86,10 @@ entries:
 
     - title: Injections 
       url: /res_injection.html
+      output: web, pdf
+      
+    - title: Prescriptions 
+      url: /res_prescriptions.html
       output: web, pdf
 
     - title: Other Resource Collections 

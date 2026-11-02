@@ -2,7 +2,7 @@
 title: Psychotherapy
 tags: [therapy, LondonON]
 keywords: 
-last_updated: October 29, 2026
+last_updated: October 31, 2026
 summary: "Gender-Affirming Therapists serving London, ON."
 sidebar: mydoc_sidebar
 permalink: london_therapy.html
