@@ -12,3 +12,14 @@ permalink: res_shortcomings.html
 {% include warning.html content="This section is a work in progress." %}
 
 TBA
+
+## Governing Regulatory Bodies 
+
+- College of Physicians and Surgeons of Ontario (CPSO)
+- College of Nurses of Ontario (CNO)
+
+### Other Organisations to Consider 
+
+- Patient Relations Department
+- Patient Ombudsman of Ontario
+
