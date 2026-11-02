@@ -2,7 +2,7 @@
 title: Prescriptions
 tags: [resources, hrt, medical_care]
 keywords: 
-last_updated: November 1, 2026
+last_updated: November 2, 2026
 summary: "Tips and other resources related to getting your prescriptions."
 sidebar: mydoc_sidebar
 permalink: res_prescriptions.html
@@ -13,7 +13,9 @@ permalink: res_prescriptions.html
 
 ## Switching Pharmacies in Ontario 
 
-{% include important.html content="In Canada, controlled substances such as **testosterone** cannot be transferred between pharmacies.  If you are on testosterone, you must ask your prescribing provider to send a new prescription to the new pharmacy. <br> <br> Estrogen, progesterone, and androgen blockers can be transferred normally." %}
+{% include important.html content="In Canada, controlled substances such as **testosterone** can be transferred to a new pharmacy (within 2 years of the date of receipt)." %}
+
+{% include important.html content="Always verify with a pharmacy and pharmacist if you have questions about your prescriptions." %}
 
 It is easy to transfer prescriptions in Ontario. Transferring a prescription to a new pharmacy in Ontario requires no coordination on your end; the pharmacies will do the heavy lifting. The process will generally look like this:
 

@@ -3,7 +3,7 @@
 entries:
 - title: sidebar
   product: Gender-Affirming Resources
-  version: 1.0.30
+  version: 1.0.31
   folders:
 
   - title:
@@ -48,6 +48,10 @@ entries:
       url: /status.html
       output: web, pdf
 
+    - title: Changelog
+      url: /changelogs.html
+      output: web, pdf
+      
   - title: Organisations
     output: web, pdf
     folderitems:
