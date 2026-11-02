@@ -2,7 +2,7 @@
 title: Self Medicating HRT (DIY)
 tags: [medical_care]
 keywords: 
-last_updated: October 31, 2026
+last_updated: November 1, 2026
 summary: "Resources and harm reduction related to self-medicating HRT."
 tags: [medical_care, hrt]
 sidebar: mydoc_sidebar

@@ -2,7 +2,7 @@
 title: Prescriptions
 tags: [resources, hrt, medical_care]
 keywords: 
-last_updated: October 31, 2026
+last_updated: November 1, 2026
 summary: "Tips and other resources related to getting your prescriptions."
 sidebar: mydoc_sidebar
 permalink: res_prescriptions.html

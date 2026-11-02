@@ -2,7 +2,7 @@
 title: Voice Training
 tags: [LondonON]
 keywords: 
-last_updated: October 31, 2026
+last_updated: November 1, 2026
 summary: "List of businesses or individuals offering voice training that is accessible to the London, ON community."
 sidebar: mydoc_sidebar
 permalink: london_voice.html

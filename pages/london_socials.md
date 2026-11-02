@@ -2,7 +2,7 @@
 title: Trans & Queer Social Life
 tags: [social, LondonON]
 keywords: 
-last_updated: October 31, 2026
+last_updated: November 1, 2026
 summary: "Fun things to do for the trans community in London, ON"
 sidebar: mydoc_sidebar
 permalink: london_social.html
