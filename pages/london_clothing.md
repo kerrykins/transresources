@@ -8,8 +8,6 @@ sidebar: mydoc_sidebar
 permalink: london_clothing.html
 ---
 
-{% include note.html content="This section is a work in progress." %}
-
 {% include note.html content="Sites explicitly marketing as a crossdressing store are omitted from this list. " %}
 
 | Service Name | Specialty | Details |

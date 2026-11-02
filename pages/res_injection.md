@@ -9,7 +9,7 @@ permalink: res_injection.html
 
 ---
 
-{% include note.html content="This section is a work in progress." %}
+{% include warning.html content="This section is incomplete and is a work in progress." %}
 
 TBA
 

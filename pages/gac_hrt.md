@@ -9,6 +9,8 @@ permalink: gac_hrt.html
 datatable: true
 ---
 
+{% include warning.html content="This section is incomplete and is a work in progress." %}
+
 {% include important.html content="HRT is not a one-size-fits-all protocol. Bodies process hormones differently; providers are recommended to adjust medications based on your goals, risk profile, and responses." %}
 
 ### Informed Consent 

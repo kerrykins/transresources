@@ -9,7 +9,7 @@ permalink: london_social.html
 datatable: true
 ---
 
-{% include note.html content="This section is a work in progress." %}
+{% include warning.html content="This section is incomplete and is a work in progress." %}
 
 {% include tip.html content="**All events listed are queer-friendly.** <br> 🏳️‍⚧ are events specifically for the trans community (including non-binary and other gender-diverse folx) <br> 🔞 are events that are 18+ <br> <br> Only recurring events are listed here. A weekly event calendar is published to the Queer Nexus Discord server." %}
 

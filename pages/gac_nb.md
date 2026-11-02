@@ -9,7 +9,7 @@ permalink: gac_nb.html
 datatable: true
 ---
 
-{% include warning.html content="This section is a work in progress." %}
+{% include warning.html content="This section is incomplete and is a work in progress." %}
 
 ## Overview
 

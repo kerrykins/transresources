@@ -8,8 +8,6 @@ sidebar: mydoc_sidebar
 permalink: london_hair.html
 ---
 
-{% include note.html content="This section is a work in progress." %}
-
 {% include note.html content="Prices are fluctuating too often to reliably list them here. Call the business to inquire about prices." %}
 
 | Name | Services | Bottom Surgery Prep | Notes | 
