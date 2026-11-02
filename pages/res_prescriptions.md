@@ -43,6 +43,12 @@ You can find the DIN in a few places:
 2. Prescription bottle and/or packaging - the packaging and label will sometimes include the DIN.
 3. [Drug Product Database online query](https://health-products.canada.ca/dpd-bdpp/) - this query tool can be a bit overhwleming to use. You might be better off just typing into Google "\<drug name\> \<dose\> DIN". 
 
+#### Shoppers Drug Mart Medication Locator 
+
+Shoppers Drug Mart has an [online website where you can search for drug stock across some Shoppers Drug Mart pharmacies](https://www.shoppersdrugmart.ca/en/health/medication-inventory-locator/). You can search by medication name, brand, or DIN. 
+
+Note that stock availability, even when searching for a specific drug, will list drugs being 'in stock' if the medication *and its brand equivalent* is in stock. This is important if you, for example, require the brand name version of the drug and not generics. 
+
 ### Suggested Tips 
 
 TBA 
