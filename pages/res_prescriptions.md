@@ -31,7 +31,9 @@ TBA
 
 ### Checking Stock 
 
-Most pharmacies do not publish their drug stock online. Thus, in most cases, you will need to call each pharmacy to inquire about their stock. Generally, pharmacies are quick to answer calls and will happily provide an update about their stock. To help steamline this, I recommend having the drug name and dose *and/or* the Drug Identification Number (DIN) on hand. 
+Most pharmacies do not publish their drug stock online. Thus, in most cases, you will need to call each pharmacy to inquire about their stock. Generally, pharmacies are quick to answer calls and will happily provide an update about their stock. 
+
+To help steamline this, I recommend having the drug name and dose *and/or* the Drug Identification Number (DIN) on hand. 
 
 #### Drug Identification Number (DIN)
 
