@@ -10,11 +10,11 @@ permalink: london_pharmacy.html
 
 {% include note.html content="For information and tips about prescriptions in Ontario, please see [this page](https://kerrykins.github.io/transresourceslondonON/res_prescriptions.html)." %}
 
-{% include important.html content="In Canada, controlled substances such as **testosterone** can be transferred to a new pharmacy (within 2 years of the date of receipt)." %}
+{% include note.html content="In Canada, controlled substances such as **testosterone** can be transferred to a new pharmacy (within 2 years of the date of receipt)." %}
 
 {% include important.html content="Always verify with a pharmacy and pharmacist if you have questions about your prescriptions." %}
 
-## List of Pharmacies 
+## List of Compounding Pharmacies 
 
 | Name | Phone | Fax | Notes | 
 | :------ | :------ | :------ | :------ | 

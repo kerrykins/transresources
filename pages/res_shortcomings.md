@@ -2,7 +2,7 @@
 title: Handling Medical Provider Shortcomings
 tags: [resources, medical_care]
 keywords: 
-last_updated: Nov 1, 2026
+last_updated: Nov 2, 2026
 summary: "Tips and resources related to handling and responding to medical provider shortcomings."
 sidebar: mydoc_sidebar
 permalink: res_shortcomings.html
@@ -17,6 +17,7 @@ TBA
 
 - College of Physicians and Surgeons of Ontario (CPSO)
 - College of Nurses of Ontario (CNO)
+- Ontario College of Pharmacists (OCP)
 
 ### Other Organisations to Consider 
 
