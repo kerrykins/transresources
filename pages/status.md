@@ -16,6 +16,12 @@ folder: mydoc
 
 The following pages are actively being updated and/or worked on. 
 
+**Overview**
+- About the Author
+
+**Organisations**
+None
+
 **Resources**
 - Self-Advocacy
 - Injections
