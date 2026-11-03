@@ -11,6 +11,25 @@ folder: mydoc
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
 
+## 1.0.35
+
+**res_prescriptions**
+- Fixed wording to recomend giving the pharmacy the phone number. 
+
+**res_injection**
+- Added an additional guide found on RHO.
+
+**london_injection**
+- Copied Harm Reduction Site row to in-person. 
+
+**res_shortcomings**
+- Added section and information for London region health organisations and its patient relations department
+  - LHSC
+  - SJHC-London 
+  
+**status**
+- Removed "Handling Medical Provider Shortcomings" from list
+
 ## 1.0.34
 
 **gac_guidelines**
@@ -39,6 +58,7 @@ Beginning November 2, 2026, changes made with each version history will be noted
 - Added new heading for the Patient Ombudsman
 
 ## 1.0.32
+November 2, 2026
 
 **london_pharmacy**
 - Fixed alert to reflect updated information regarding controlled substances.

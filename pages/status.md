@@ -25,7 +25,6 @@ The following pages are actively being updated and/or worked on. The information
 - Self-Advocacy
 - Injections
 - Prescriptions
-- Handling Medical Provider Shortcomings
 
 ### Medical Gender Affirming Care <span class="label label-danger">Work In Progress</span>
 - HRT (DIY)

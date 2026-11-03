@@ -21,7 +21,7 @@ author: Kerry
 It is easy to transfer prescriptions in Ontario. Transferring a prescription to a new pharmacy in Ontario requires no coordination on your end; the pharmacies will do the heavy lifting. The process will generally look like this:
 
 1. **Contact the new pharmacy.** You can call or visit the pharmacy that you want to switch to. 
-2. **Give details.** You'd typically give your name, DOB, and the name (and preferably the phone number) of your previous pharmacy.
+2. **Give details.** You'd typically give your name, DOB, and the name (and preferably the phone number) of your previous pharmacy. To ease the process, consider giving the new pharmacy your old pharmacy's phone number too. 
 3. **Specify medications**. You can transfer your *entire* file or just specific prescription(s). 
 
 That's it. The new pharmacy will contact your old one and pull your active refills over. If you have private insurance, the new pharmacy should be able to grab that as well. *You do not need to contact your old pharmacy to cancel anything.* 

@@ -2,7 +2,7 @@
 title: Injection Supplies
 tags: [LondonON, medical_care]
 keywords: 
-last_updated: October 31, 2026
+last_updated: November 2, 2026
 summary: "List of businesses to purchase injection supplies in London, ON"
 sidebar: mydoc_sidebar
 permalink: london_injection.html
@@ -20,6 +20,7 @@ permalink: london_injection.html
 | [True North Compounding](https://truenorthcompounding.ca/womens-health) | Injection supplies | Contact pharmacy | ✔ | 
 | [Yurek Pharmacy](https://yurekpharmacy.com/) | Injection supplies | Contact pharmacy | |
 | Walmart | Varying selections <br> You can buy alcohol swabs and bandages in store. | Varies | |
+| [Harm Reduction Sites](https://ohrdp.ca/find-supplies/) | Throughout Ontario | Sterile single-use injection supplies <br> Sharps disposal | Uusally free with varying selections <br> Needle gauge/syringe sizes may vary |
 
 
 ## Online 
@@ -45,7 +46,7 @@ Even though this section includes non-London, ON locations, I've decided to incl
 
 | Name | Location | Supplies | Notes | 
 | :------  | :----- | :------ | 
-| [Harm Reduction Sites](https://ohrdp.ca/find-supplies/) | Throughout Ontario | Sterile single-use injection supplies <br> Sharps disposal | Uusally free with varying selections <br> Needle gauge/syringe sizes may vary|
+| [Harm Reduction Sites](https://ohrdp.ca/find-supplies/) | Throughout Ontario | Sterile single-use injection supplies <br> Sharps disposal | Uusally free with varying selections <br> Needle gauge/syringe sizes may vary |
 | [Hive Health Services](https://guelphchc.ca/hivehealthservices/) <br> <span class="label label-danger">Pickup Only</span> | Guelph | Sterile single-use injection supplies <br> Sharps containers & disposal | Needle gauge/syringe sizes may vary. |
 | [MAX Ottawa Tea2Go](https://maxottawa.ca/programs-and-services/tea-to-go/) | Ottawa | Syringes <br> SubQ needles <br> IM needles <br> Alcohol swabs <br> Sharps bins | Pickups & Free shipping |
 | [Pieces to Pathways/Breakaway Community Services](https://breakawaycs.ca/programs/pieces-to-pathways/) | Toronto | Injection supplies | Pickups and delivery to West Downtown TO only |

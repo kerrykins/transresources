@@ -1,6 +1,6 @@
 ---
 title: Handling Medical Provider Shortcomings
-tags: [resources, medical_care]
+tags: [resources, medical_care, LondonON]
 keywords: 
 last_updated: Nov 2, 2026
 summary: "Tips and resources related to handling and responding to medical provider shortcomings."
@@ -8,10 +8,6 @@ sidebar: mydoc_sidebar
 permalink: res_shortcomings.html
 
 ---
-
-{% include warning.html content="This section is incomplete and is a work in progress." %}
-
-TBA
 
 ## Governing Regulatory Bodies 
 
@@ -55,9 +51,24 @@ Description from CPSO:
 - [Patinet Ombudsman Complaints](https://patientombudsman.ca/Complaints/Before-You-Make-a-Complaint)
 - Phone: 1-888-321-0339
 
-### Other Organisations To Consider 
+## London Region Health Organisations
 
-#### Patient Relations Department
+Below is a list of London region healthcare organisations and their patient relations department. 
+
+### London Health Sciences Centre (LHSC)
+
+- [Patient Relations (LHSC)](https://www.lhsc.on.ca/patients-visitors/patient-relations)
+  - [Contact Form](https://forms.office.com/Pages/ResponsePage.aspx?id=jnn4f9lFkUuLdHDG2G_Jue2DGVl1YkVNjDIQpg2kVwtUODMxQVhEMjlCMDhCMUY4TlFZSFU5RUNFTSQlQCN0PWcu)
+  - 519-685-8500 (ext. 58230)
+- [Patient Relations Brochure](https://www.lhsc.on.ca/media/10233/download)
+- [Questions, Comments or Concerns](https://www.lhsc.on.ca/patients-visitors/questions-comments-or-concerns)
+
+### St. Joseph's Health Care London (SJHC-London)
+
+- [Patient Relations (STJC-London)](https://www.sjhc.london.on.ca/patients-and-visitors/patient-information/patient-relations)
+  - 519-646-6100 (ext. 61234)
+  - patientrelations@sjhc.london.on.ca
+- [General Feedback](https://www.sjhc.london.on.ca/feedback)
 
 
 
