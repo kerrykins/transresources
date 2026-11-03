@@ -11,15 +11,26 @@ folder: mydoc
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
 
+## 1.0.34
+
+**gac_guidelines**
+- Fixed fluff and spelling mistakes
+
+**res_shortcomings**
+- Fixed spelling errors
+
+**res_prescriptions**
+- Fixed alert to reflect updated information regarding controlled substances.
+
 ## 1.0.33
 
-[**res_medicaltransition**](res_medicaltransition.html) 
+**res_medicaltransition**
 - Fixed clunky wording in an alert.
 
-[**status**](status.html)
+**status**
 - Updated wording that is describing the page.
 
-[**res_shortcomings**](shortcomings.html)
+**res_shortcomings**
 - Split sections into type of provider
   - Added information for physicians and surgeons
   - Added information for nurses

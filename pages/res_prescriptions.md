@@ -26,7 +26,7 @@ It is easy to transfer prescriptions in Ontario. Transferring a prescription to 
 
 That's it. The new pharmacy will contact your old one and pull your active refills over. If you have private insurance, the new pharmacy should be able to grab that as well. *You do not need to contact your old pharmacy to cancel anything.* 
 
-{% include warning.html content="Be prepared for a potentially uncomfortable call when transferring from a small pharmacy. They may call and inquire about why you are switching before authorising the transfer. Know that you are entirely within your rights to transfer your prescriptions as you deem necessary, except for controlled substances." %}
+{% include warning.html content="Be prepared for a potentially uncomfortable call when transferring from a small pharmacy. They may call and inquire about why you are switching before authorising the transfer. Know that you are entirely within your rights to transfer your prescriptions as you deem necessary." %}
 
 ## Drug Shortages 
 

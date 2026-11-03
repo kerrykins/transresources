@@ -43,7 +43,7 @@ The OCP holds pharmacists accountable if they refuse to fill your prescriptions,
 
 | Body | Website/Guide |
 | :------ | :------ | :------ | :------ | 
-| **CPSO** <br> feedback@cpso.on.ca <br> 1-800-268-7096 (ext. 603| [CPSO Complaints and Concerns](https://www.cpso.on.ca/public/services/complaints-and-concerns) |
+| **CPSO** <br> feedback@cpso.on.ca <br> 1-800-268-7096 (ext. 603)| [CPSO Complaints and Concerns](https://www.cpso.on.ca/public/services/complaints-and-concerns) |
 | **CNO** <br> PublicComplaints@cnomail.org <br> 1-877-963-7503 | [CNO Make a Complaint](https://www.cno.org/protect-the-public/make-a-complaint) <br> [CNO Adresssing Complaints Process Guide](https://www.cno.org/Assets/CNO/Documents/Protect-the-public/42017_resolvingcomplaints.pdf) |
 | **OCP** <br> intakes@ocpinfo.com <br> 1-800-220-1921 (ext. 3800) | [OCP File a Complaint](https://ocpinfo.com/public/report-concerns/file-a-complaint/) | 
 

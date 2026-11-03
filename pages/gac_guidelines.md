@@ -20,7 +20,7 @@ If your PCP feels managing GAC is beyond their clinical competency, **they have 
 
 ## Accessing Hormone Replacement Therapy (HRT)
 
-In Ontario, prescrbing hormone repalcement therapy (HRT) operates on an informed consent model. A prescriber does not need a psychological evaluation or a diagnosis of gender dysphoria to begin the process. 
+In Ontario, prescribing hormone replacement therapy (HRT) operates on an informed consent model. A prescriber does not need a psychological evaluation or a diagnosis of gender dysphoria to begin the process. 
 
 A willing physician (family doctors or specialists) or a nurse practitioner can prescribe hormones once they make sure you fully understand the  medical effects, risks, and timelines. Once again, if your PCP cannot prescribe HRT, they must refer you to a specialist (like an endocrinologist) or an affirming clinic/clinician that uses informed consent. 
 
@@ -32,7 +32,7 @@ For a variety of valid reasons such as negative experiences with the formal heal
 
 Unlike HRT's informed consent model, OHIP-funded surgeries require provincial approval. Different surgeries require different formal surgical assessments (e.g., chest surgeries require one assessment whereas bottom surgeries require two). 
 
-After your provider submits the funding application, the Ministry of Health muskert approve it before any surgery can take place. 
+After your provider submits the funding application, the Ministry of Health must approve it before any surgery can take place. 
 
 See this [guide's page on TRS](https://kerrykins.github.io/transresourceslondonON/gac_trs.html) and Rainbow Health Ontario's [TRS Frequently Asked Questions](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/RHO-GAS-FAQ.pdf) for information about assessments, referrals, and OHIP coverage.
 
@@ -44,7 +44,7 @@ See this [guide's page on TRS](https://kerrykins.github.io/transresourceslondonO
 
 ### Guidelines In Other Healthcare Jurisdictions
 
-Different health systems can approach gender-affirming care differently (although there are not huge differences given adhereing to WPATH standards). You may find it helpful to see how other health sytsems approach gender care. You may even find a regimen or insight that you can bring to your provider to discuss. 
+Most other health systems adhere to WPATH standards. You may find it helpful to review out-of-province guidelines as it can provide alternative regimens and insights to share with your provider. 
 
 - [Trans Care BC](https://www.phsa.ca/transcarebc/Documents/HealthProf/Primary-Care-Toolkit.pdf)
 - [Fenway Health](https://www.lgbthealtheducation.org/publication/transgender-sod/)
