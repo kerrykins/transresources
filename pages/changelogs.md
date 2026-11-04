@@ -11,6 +11,12 @@ folder: mydoc
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
 
+## 1.1.8
+
+**gac_hrt**
+- Changing text link labels to icons for aesthetic purposes. 
+- Added headings.
+
 ## 1.1.7
 
 **london_socials**
