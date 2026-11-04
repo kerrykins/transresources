@@ -11,6 +11,14 @@ folder: mydoc
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
 
+## 1.1.6
+
+css
+- Removing external link icon from all pages
+
+**london_socials**
+- Fixing html code
+
 ## 1.1.5
 
 **london_socials**
