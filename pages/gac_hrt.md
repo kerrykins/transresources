@@ -52,7 +52,7 @@ Quick Guides for Hormone Therapy
 Masculinising HRT | Rainbow Health Ontario | <a href="https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html"><i class="fa fa-solid fa-globe fa-lg"></i></a> <a href="https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf"><i class="fa fa-solid fa-file-pdf fa-lg"></i></a> |
 | | Trans Care Project | <a href="https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_FTM.pdf"><i class="fa fa-solid fa-file-pdf fa-lg"></i></a> |
 
-<a href="https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf"><i class="fa fa-solid fa-file-pdf fa-lg"></i></a>
+<a href="https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf"><i class="fa fa-regular fa-file-pdf fa-lg"></i></a>
 
 
 

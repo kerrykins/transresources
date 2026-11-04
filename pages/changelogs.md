@@ -14,7 +14,7 @@ Beginning November 2, 2026, changes made with each version history will be noted
 ## 1.1.9
 
 **gac_hrt**
-- Fixing html code
+- Fixing html code for icon.
 
 ## 1.1.8
 
