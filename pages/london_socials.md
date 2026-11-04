@@ -45,10 +45,11 @@ datatable: true
 
 | Place Name | Address | Venue Type | Description | Notes |
 | :------ | :------ | :------ | 
-| [**DoughEV**](https://doughev.com/) <br> 548-391-4851 <br> doughevlondon@gmail.com | 621 Dundas St. | Cafe | | |
+| **DoughEV** <br> 548-391-4851 <br> doughevlondon@gmail.com | 621 Dundas St. | Cafe | [Website](https://doughev.com/) <br>  | |
 | [**London Brewing Co-Op**](https://www.londonbrewing.ca/) | 521 Burbrook Pl. | Brewery |  ||
 | [**ReImagine Co.**](https://reimagineco.ca/) | 206 Piccadilly St. | Third Space |  ||
-| [**Honey Dip**](https://www.honeydipbar.com/) | 621 Dundas St. | Nightlife |  | |
+| [**Honey Dip**](https://www.honeydipbar.com/) <br> | 621 Dundas St. | Nightlife |  | |
 | [**Poacher's Arms**](https://www.instagram.com/poachers_arms/) | 171 Queens Ave. | Pub <br> Nightlife | ||
 | [**Supply & Demand**] || Pub |  ||
 
+<a href="https://doughev.com/"><i class="fa fa-camera-retro fa-2x"></i></a>

@@ -11,6 +11,14 @@ folder: mydoc
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
 
+## 1.1.2
+
+**res_starting**
+- Added link to res_digitalprofile on this page. 
+
+**org_london**
+- Added new club under Fanshawe College
+
 ## 1.1.1
 
 **gac_hrt**

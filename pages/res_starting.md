@@ -2,7 +2,7 @@
 title: Beginning Your Transition
 tags: [resources, getting_started]
 keywords: 
-last_updated: October 29, 2026
+last_updated: November 4, 2026
 summary: "Resources related to beginning your transition journey."
 sidebar: mydoc_sidebar
 permalink: res_starting.html
@@ -24,6 +24,8 @@ permalink: res_starting.html
   - [Transfeminine Folx](https://tinyurl.com/566p6u4v)
   - [Transmasculine Folx](https://tinyurl.com/mvs4w294)
   
+{% include tip.html content="Some people like to create and share a digital identity profile (e.g., to share their new pronouns) when they begin transitioning. See more information on this [here](https://kerrykins.github.io/transresourceslondonON/res_digitalprofile.html)" %}
+  
 ## Changing Your Legal Documents
 
 - [Things To Know Before Changing Name or Sex Marker on IDs](https://tinyurl.com/4u5ctus6)
@@ -43,8 +45,6 @@ permalink: res_starting.html
   - [Change the information on your secure status card](https://www.sac-isc.gc.ca/eng/1695840683920/1695840721105)
 - **Immigration, Refugee and Citizenship Canada (IRCC)**
   - [How do I change the sex or gender identifier on my application or document?](https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1253&top=32)
-
-
 
 ## Coming Out
 

@@ -2,7 +2,7 @@
 title: London Organisations
 tags: [organisations, LondonON, social]
 keywords: 
-last_updated: October 29, 2026
+last_updated: Nov 4, 2026
 summary: "A list of local trans-friendly organisations."
 sidebar: mydoc_sidebar
 permalink: org_london.html
@@ -31,3 +31,7 @@ permalink: org_london.html
 | [Pride USC](https://westernusc.ca/services/pride-usc/) | Pride commission that is part of the University Students' Council (undergraduates). |
 
 #### Fanshawe College 
+
+| Organisation                      | Description          |
+| :--------------------------- | :--------------- |
+| [Fanshawe Queer Haven Club](https://www.instagram.com/fanshawequeerhaven/) | |
