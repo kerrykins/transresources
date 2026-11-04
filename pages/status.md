@@ -23,7 +23,6 @@ The following pages are actively being updated and/or worked on. The information
 
 ### Resources <span class="label label-danger">Work In Progress</span>
 - Self-Advocacy
-- Injections
 - Prescriptions
 
 ### Medical Gender Affirming Care <span class="label label-danger">Work In Progress</span>

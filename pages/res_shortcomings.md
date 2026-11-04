@@ -65,7 +65,7 @@ Below is a list of London region healthcare organisations and their patient rela
 
 ### St. Joseph's Health Care London (SJHC-London)
 
-- [Patient Relations (STJC-London)](https://www.sjhc.london.on.ca/patients-and-visitors/patient-information/patient-relations)
+- [Patient Relations (SJHC-London)](https://www.sjhc.london.on.ca/patients-and-visitors/patient-information/patient-relations)
   - 519-646-6100 (ext. 61234)
   - patientrelations@sjhc.london.on.ca
 - [General Feedback](https://www.sjhc.london.on.ca/feedback)

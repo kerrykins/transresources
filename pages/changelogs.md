@@ -11,6 +11,17 @@ folder: mydoc
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
 
+## 1.1.0
+
+**res_shortcomings**
+- Fixed spelling errors.
+
+**status**
+- Removed "Injections" from list. 
+
+**gac_hrt**
+- Adding new introductory information. 
+
 ## 1.0.35
 
 **res_prescriptions**
