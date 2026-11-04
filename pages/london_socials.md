@@ -47,10 +47,10 @@ datatable: true
 
 | Place Name | Address | Venue Type | Description | 
 | :------ | :------ | :------ | 
-| [**DoughEV**]((https://doughev.com/) <a href="https://www.instagram.com/doughevlondon/"><i class="fa-brands fa-instagram"></i></a> | 621 Dundas St. | Cafe | |
-| [**London Brewing Co-Op**](https://www.londonbrewing.ca/) <a href="https://www.instagram.com/londonbrewingca/"><i class="fa-brands fa-instagram"></i></a> | 521 Burbrook Pl. | Brewery |  |
+| [**DoughEV**](https://doughev.com/) <a href="https://www.instagram.com/doughevlondon/"><i class="fa fa-instagram"></i></a> | 621 Dundas St. | Cafe | |
+| [**London Brewing Co-Op**](https://www.londonbrewing.ca/) <a href="https://www.instagram.com/londonbrewingca/"><i class="fa fa-brands fa-instagram"></i></a> | 521 Burbrook Pl. | Brewery |  |
 | [**ReImagine Co.**](https://reimagineco.ca/) <a href="https://www.instagram.com/reimagine.co/"><i class="fa-brands fa-instagram"></i></a> | 206 Piccadilly St. | Third Space |  |
 | [**Honey Dip**](https://www.honeydipbar.com/) <a href="https://www.instagram.com/honeydipbar/"><i class="fa-brands fa-instagram"></i></a> | 623 Dundas St. | Nightlife |  | 
-| [**Poacher's Arms**] <a href="https://www.instagram.com/poachers_arms/"><i class="fa-brands fa-instagram"></i></a> | 171 Queens Ave. | Pub <br> Nightlife | |
+| **Poacher's Arms** <a href="https://www.instagram.com/poachers_arms/"><i class="fa-brands fa-instagram"></i></a> | 171 Queens Ave. | Pub <br> Nightlife | |
 | [**Supply & Demand**](https://www.beerlab.com/) <a href="https://www.instagram.com/supplydemandbrewery/"><i class="fa-brands fa-instagram"></i></a>|| Pub |  |
 
