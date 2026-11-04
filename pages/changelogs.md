@@ -11,6 +11,12 @@ folder: mydoc
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
 
+## 1.1.3
+
+**london_socials**
+- Updated webpage and instagram links. 
+- Added note that newest and latest events are usually posted on the venue's instagram first. 
+
 ## 1.1.2
 
 **res_starting**

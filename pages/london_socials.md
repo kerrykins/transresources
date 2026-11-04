@@ -43,13 +43,14 @@ datatable: true
 
 ## Trans-Friendly Social Venues
 
-| Place Name | Address | Venue Type | Description | Notes |
-| :------ | :------ | :------ | 
-| **DoughEV** <br> 548-391-4851 <br> doughevlondon@gmail.com | 621 Dundas St. | Cafe | [Website](https://doughev.com/) <br>  | |
-| [**London Brewing Co-Op**](https://www.londonbrewing.ca/) | 521 Burbrook Pl. | Brewery |  ||
-| [**ReImagine Co.**](https://reimagineco.ca/) | 206 Piccadilly St. | Third Space |  ||
-| [**Honey Dip**](https://www.honeydipbar.com/) <br> | 621 Dundas St. | Nightlife |  | |
-| [**Poacher's Arms**](https://www.instagram.com/poachers_arms/) | 171 Queens Ave. | Pub <br> Nightlife | ||
-| [**Supply & Demand**] || Pub |  ||
+{% include tip.html content="Check a venue's Instagram page first for the latest events." %}
 
-<a href="https://doughev.com/"><i class="fa fa-camera-retro fa-2x"></i></a>
+| Place Name | Address | Venue Type | Description | 
+| :------ | :------ | :------ | 
+| [**DoughEV**]((https://doughev.com/) <a href="https://www.instagram.com/doughevlondon/"><i class="fa-brands fa-instagram fa-lg"></i></a> | 621 Dundas St. | Cafe | |
+| [**London Brewing Co-Op**](https://www.londonbrewing.ca/) <a href="https://www.instagram.com/londonbrewingca/"><i class="fa-brands fa-instagram fa-lg"></i></a> | 521 Burbrook Pl. | Brewery |  |
+| [**ReImagine Co.**](https://reimagineco.ca/) <a href="https://www.instagram.com/reimagine.co/"><i class="fa-brands fa-instagram fa-lg"></i></a> | 206 Piccadilly St. | Third Space |  |
+| [**Honey Dip**](https://www.honeydipbar.com/) <a href="https://www.instagram.com/honeydipbar/"><i class="fa-brands fa-instagram fa-lg"></i></a> | 621 Dundas St. | Nightlife |  | 
+| [**Poacher's Arms**] <a href="https://www.instagram.com/poachers_arms/"><i class="fa-brands fa-instagram fa-lg"></i></a> | 171 Queens Ave. | Pub <br> Nightlife | |
+| [**Supply & Demand**](https://www.beerlab.com/) <a href="https://www.instagram.com/supplydemandbrewery/"><i class="fa-brands fa-instagram fa-lg"></i></a>|| Pub |  |
+
