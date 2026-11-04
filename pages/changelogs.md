@@ -11,6 +11,13 @@ folder: mydoc
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
 
+## 1.1.4
+
+**london_socials**
+- Fixed address error(s)
+- Added details and info
+- Fixing html code
+
 ## 1.1.3
 
 **london_socials**
