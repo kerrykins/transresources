@@ -2,7 +2,7 @@
 title: Hormone Replacement Therapy (HRT)
 tags: [medical_care, guidelines, hrt]
 keywords: 
-last_updated: October 29, 2026
+last_updated: November 4, 2026
 summary: "A brief introduction to hormone replacement therapy (HRT) in Ontario, Canada"
 sidebar: mydoc_sidebar
 permalink: gac_hrt.html
@@ -22,13 +22,16 @@ datatable: true
 > For transgender and non-binary individuals, HRT can play a crucial role in reducing gender dysphoria and promoting overall well-being.
 > 
 > HRT may include the use of estrogen or testosterone to induce physical changes, such as changes in body hair, skin texture, voice, and fat distribution. The specific treatment plan is tailored to your individual needs and goals, and we provide you with the information you need to make informed choices about your healthcare.
-- Safer Six Inclusive Health Clinic
+
+\- Safer Six Inclusive Health Clinic
 
 ## Feminising Hormone Therapy 
 
 Feminising hormone therapy is used to make changes (i.e., secondary sex characteristics) in the body that are caused by female hormones during puberty. 
 
 ## Masculinising Hormone Therapy 
+
+Masculinising hormone therapy is used to make changes (i.e., secondary sex characteristics) in the body that are caused by male hormones during puberty. 
 
 ## Informed Consent 
 

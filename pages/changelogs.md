@@ -4,12 +4,24 @@ permalink: changelogs.html
 sidebar: mydoc_sidebar
 tags: []
 keywords: 
-last_updated: November 2, 2026
+last_updated: November 4, 2026
 toc: true
 folder: mydoc
 ---
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
+
+## 1.1.1
+
+**gac_hrt**
+- Added new information in existing headers
+- Fixed formatting issues. 
+
+**status**
+- New page "Digital Identity Profiles". 
+
+**res_digitalprofile**
+- New page to share platform and services that allows users to create and share their identity information.
 
 ## 1.1.0
 
