@@ -11,6 +11,11 @@ folder: mydoc
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
 
+## 1.1.7
+
+**london_socials**
+- Added new section listing other groups and their social media links. (still incomplete)
+
 ## 1.1.6
 
 css

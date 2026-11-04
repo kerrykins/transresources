@@ -52,5 +52,18 @@ datatable: true
 | [**ReImagine Co.**](https://reimagineco.ca/) <a href="https://www.instagram.com/reimagine.co/"><i class="fa fa-brands fa-instagram"></i></a> | 206 Piccadilly St. | Third Space |  |
 | [**Honey Dip**](https://www.honeydipbar.com/) <a href="https://www.instagram.com/honeydipbar/"><i class="fa fa-brands fa-instagram"></i></a> | 623 Dundas St. | Nightlife |  | 
 | **Poacher's Arms** <a href="https://www.instagram.com/poachers_arms/"><i class="fa fa-brands fa-instagram"></i></a> | 171 Queens Ave. | Pub <br> Nightlife | |
-| [**Supply & Demand**](https://www.beerlab.com/) <a href="https://www.instagram.com/supplydemandbrewery/"><i class="fa fa-brands fa-instagram"></i></a>|| Pub |  |
+| [**Supply & Demand**](https://www.beerlab.com/) <a href="https://www.instagram.com/supplydemandbrewery/"><i class="fa fa-brands fa-instagram"></i></a> || Pub |  |
+| [**Holy Diver**](https://www.holydiver.ca/) <a href="https://www.instagram.com/holydiverldn/"><i class="fa fa-brands fa-instagram"></i></a> | Bar | |
+
+## Trans-Friendly Social Groups 
+
+In addition to the social venues listed above, the following Instagram pages are also noteworthy for posting/hosting trans-friendly events. 
+
+| Name | Social Media | Notes | 
+| :------ | :------ | 
+| Queer Artists Collaborative London | <a href="https://www.instagram.com/qaclondon/"><i class="fa fa-instagram fa-lg"></i></a> | Hosts art markets featuring queer artists. |
+| Queer Sax-Ed | <a href="https://www.instagram.com/stories/queersaxed/"><i class="fa fa-instagram fa-lg"></i></a> | Hosts adult colouring nights and sexual health & wellness education. | 
+| Sex Toy Bingo 519 <br> <span class="label label-danger">Adults (18+)</span> | <a href="https://www.instagram.com/sextoybingo519/"><i class="fa fa-instagram fa-lg"></i></a> | Hosts trivia, bingo, and sex education by sexual education educators. | 
+
+
 
