@@ -8,7 +8,7 @@ sidebar: mydoc_sidebar
 permalink: london_injection.html
 ---
 
-{% include note.html content="Resources and guides about injections can be found on [this resource page](/res_injection.html)." %}
+{% include note.html content="Resources and guides about injections can be found on [this resource page](/transresources/res_injection.html)." %}
 
 ## In-Person (London, ON)
 
