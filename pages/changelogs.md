@@ -11,6 +11,10 @@ folder: mydoc
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
 
+## 1.1.10
+
+- Renamed domain
+
 ## 1.1.9
 
 **gac_hrt**

@@ -4,7 +4,7 @@ permalink: status.html
 sidebar: mydoc_sidebar
 tags: [getting_started]
 keywords: 
-last_updated: November 2, 2026
+last_updated: November 4, 2026
 summary: 
 toc: false
 folder: mydoc
@@ -24,6 +24,7 @@ The following pages are actively being updated and/or worked on. The information
 ### Resources <span class="label label-danger">Work In Progress</span>
 - Self-Advocacy
 - Prescriptions
+- Digital Identity Profiles
 
 ### Medical Gender Affirming Care <span class="label label-danger">Work In Progress</span>
 - HRT (DIY)
