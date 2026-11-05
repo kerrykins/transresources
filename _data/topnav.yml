@@ -6,11 +6,19 @@ topnav:
     - title: Kerry's Blog
       external_url: https://kerrykins.github.io
 
-#Topnav dropdowns
-# topnav_dropdowns:
-#- title: Topnav dropdowns
+Topnav dropdowns
+ topnav_dropdowns:
+- title: Contact the Author
+    folders:
+        - title: About Author & Contact
+            extenal_url: https://kerrykins.github.io/transresources/author.html
+        - title: Feedback/Bugs/Incorrect Info
+            external_url: https://kerrykins.github.io/transresources/reportissue.html
+        - title: Make a Report 
+            external_url: https://github.com/kerrykins/transresources/issues/
+
 #  folders:
-#    - title: Jekyll Help
+#    - title: 
 #      folderitems:
 #        - title: Jekyll Talk
 #          external_url: https://talk.jekyllrb.com

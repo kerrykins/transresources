@@ -45,10 +45,11 @@ feedback_disable: false
 # feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
+feedback_text: "Need help?"
 # feedback_text: "Need help?"
 # if you uncomment the previous line, it changes the Feedback text
 
-feedback_link: "https://kerrykins.github.io/transresourceslondonON/about.html#how-do-i-contact-you-about-changes-feedback-or-mistakes"
+feedback_link: "https://kerrykins.github.io/transresources/reportissue.html"
 # feedback_link: "http://helpy.io/"
 # if you uncomment the previous line, it changes where the feedback link points to
 

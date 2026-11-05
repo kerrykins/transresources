@@ -68,7 +68,7 @@ Other drugs, such as SERMs, are often treated as 'experimental' approaches becau
 
 #### Progestogens 
 
-Progestins use continues to be controversial. There are anecdotal reports that progestins contribute to better breast development, mood, sleep, and libido. It can be considered a 'wildcard' where some experiences favourable effects while others experience negative effects. 
+Progestogens use continues to be controversial. There are anecdotal reports that progestogens contribute to better breast development, mood, sleep, and libido. It can be considered a 'wildcard' where some will  experience favourable effects while others experience negative effects. 
 
 | Name | Description |
 | :----- | :----- | 
@@ -108,3 +108,5 @@ Masculinising hormone therapy is used to make changes (i.e., secondary sex chara
 **Finasteride**
 
 ## Sources
+- [Guidelines for Gender-affirming Primary Care with Trans and Non-Binary Patients](https://www.rainbowhealthontario.ca/product/4th-edition-sherbournes-guidelines-for-gender-affirming-primary-care-with-trans-and-non-binary-patients/)
+- [An Introduction to Hormone Therapy for Transfeminine People](https://transfemscience.org/articles/transfem-intro/)

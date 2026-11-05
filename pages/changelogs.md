@@ -5,11 +5,26 @@ sidebar: mydoc_sidebar
 tags: []
 keywords: 
 last_updated: November 5, 2026
-toc: true
+toc: false
 folder: mydoc
 ---
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
+
+## 1.1.15
+
+**gac_hrt** 
+- Fixed spelling mistakes 
+- Added sources
+
+**config**
+- Changed feedback links 
+
+**issue templates**
+- Added new issue templates to make submitting changes easier.
+
+**reportissue**
+- Added new page for quick instructions on how to contact the author and report bugs, feedback, and incorrect info. 
 
 ## 1.1.14
 
