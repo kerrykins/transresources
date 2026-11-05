@@ -8,14 +8,16 @@ topnav:
 
 Topnav dropdowns
  topnav_dropdowns:
-- title: Contact the Author
+- title: Topnav dropdowns
     folders:
-        - title: About Author & Contact
-            extenal_url: https://kerrykins.github.io/transresources/author.html
-        - title: Feedback/Bugs/Incorrect Info
-            external_url: 
-        - title: Make a Report 
-            external_url: https://github.com/kerrykins/transresources/issues/
+        - title: Contact Author & Support
+            folderitems: 
+                - title: About Author & Contact
+                    extenal_url: https://kerrykins.github.io/transresources/author.html
+                - title: Feedback/Bugs/Incorrect Info
+                    external_url: 
+                - title: Make a Report 
+                    external_url: https://github.com/kerrykins/transresources/issues/
 
 #  folders:
 #    - title: 
