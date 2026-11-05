@@ -13,6 +13,8 @@ datatable: true
 
 {% include important.html content="HRT is not a one-size-fits-all protocol. Bodies process hormones differently; providers are recommended to adjust medications based on your goals, risk profile, and responses." %}
 
+{% include important.html content="With all medical information, do your own research using primary sources (linked throughout this page) to verify information. When in doubt, always talk to a medical professional." %}
+
 ## What is hormone replacement therapy (HRT)?
 
 {% include tip.html content="For many trans, non-binary, and gender diverse people, hormone therapy is life-saving." %}

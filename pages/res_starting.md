@@ -2,7 +2,7 @@
 title: Beginning Your Transition
 tags: [resources, getting_started]
 keywords: 
-last_updated: November 4, 2026
+last_updated: November 5, 2026
 summary: "Resources related to beginning your transition journey."
 sidebar: mydoc_sidebar
 permalink: res_starting.html
@@ -24,7 +24,7 @@ permalink: res_starting.html
   - [Transfeminine Folx](https://tinyurl.com/566p6u4v)
   - [Transmasculine Folx](https://tinyurl.com/mvs4w294)
   
-{% include tip.html content="Some people like to create and share a digital identity profile (e.g., to share their new pronouns) when they begin transitioning. See more information on this [here](https://kerrykins.github.io/transresourceslondonON/res_digitalprofile.html)" %}
+{% include tip.html content="Some people like to create and share a digital identity profile (e.g., to share their new pronouns) when they begin transitioning. See more information on this [here](/res_digitalprofile.html)" %}
   
 ## Changing Your Legal Documents
 

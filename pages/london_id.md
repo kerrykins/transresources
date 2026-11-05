@@ -2,13 +2,13 @@
 title: ID Clinics
 tags: [LondonON]
 keywords: 
-last_updated: October 29, 2026
+last_updated: November 5, 2026
 summary: "List of organisations offering support for ID changes in London, ON."
 sidebar: mydoc_sidebar
 permalink: london_id.html
 ---
 
-{% include note.html content="Resources and guides about ID changes can be found on [this resource page](https://kerrykins.github.io/transresourceslondonON/res_starting.html#changing-your-legal-documents)." %}
+{% include note.html content="Resources and guides about ID changes can be found on [this resource page](https://kerrykins.github.io/transresources/res_starting.html#changing-your-legal-documents)." %}
 
 ## Clinics available to London, ON community 
 

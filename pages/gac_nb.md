@@ -2,7 +2,7 @@
 title: HRT - Non-binary Considerations
 tags: [medical_care, guidelines, hrt]
 keywords: 
-last_updated: October 31, 2026
+last_updated: November 5, 2026
 summary: "Special considerations for non-binary people."
 sidebar: mydoc_sidebar
 permalink: gac_nb.html

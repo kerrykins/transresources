@@ -2,13 +2,13 @@
 title: Injection Supplies
 tags: [LondonON, medical_care]
 keywords: 
-last_updated: November 2, 2026
+last_updated: November 5, 2026
 summary: "List of businesses to purchase injection supplies in London, ON"
 sidebar: mydoc_sidebar
 permalink: london_injection.html
 ---
 
-{% include note.html content="Resources and guides about injections can be found on [this resource page](https://kerrykins.github.io/transresourceslondonON/res_injection.html)." %}
+{% include note.html content="Resources and guides about injections can be found on [this resource page](/res_injection.html)." %}
 
 ## In-Person (London, ON)
 

@@ -11,6 +11,17 @@ folder: mydoc
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
 
+## 1.1.16
+
+**london_id**
+- Updated broken link. 
+
+**london_injection**
+- Updated broken link. 
+
+**gac_hrt**
+- Added new alert highly recommending that readers verify information and talk to a professional. 
+
 ## 1.1.15
 
 **gac_hrt** 
