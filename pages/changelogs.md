@@ -11,6 +11,14 @@ folder: mydoc
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
 
+## 1.1.13
+
+**gac_hrt**
+- Fixed spelling errors. 
+- Fixed html code. 
+- Moved links up to respective sections. 
+- Added information
+
 ## 1.1.12
 
 **gac_hrt**

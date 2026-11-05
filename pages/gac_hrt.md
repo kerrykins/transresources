@@ -38,6 +38,13 @@ Different drug (and delivery) options are available because our bodies are diffe
 
 Feminising hormone therapy is used to make changes (i.e., secondary sex characteristics) in the body that are caused by female hormones during puberty. 
 
+### Quick Guides for Feminising HRT
+
+- [Feminizing Hormone Therapy](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) from Rainbow Health Ontario
+  - [Quick Reference Guide for Primary Care Providers](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf)
+- [An Introduction to Hormone Therapy for Transfeminine People](https://transfemscience.org/articles/transfem-intro/) from Transfeminine Science
+- [Hormones: A guide for MTFs](https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_MTF.pdf) from Trans Care Project
+
 ### Medications for Feminising HRT
 
 Below are a list of medications used for feminising HRT. In Ontario, you will see the use of estrogens, anti-androgens, and progestogens in standard feminising HRT. Standard HRT regimens are safe, established, and evidence-based practices backed by WPATH, major endocrinology organisations, and Ontario Health guidelines.
@@ -55,8 +62,8 @@ Other drugs, such as SERMs, are often treated as 'experimental' approaches becau
 
 | Name | Description |
 | :----- | :----- | 
-| **Spironolactone** | This is one of the two common anti-androgens used to suppress testosterone. It's on-label use is a blood pressure medication. |
-| **Cyproterone** | This is the second of the two common anti-androgens used in Ontario. It's on-label use is part of the process to treat prostate cancer. |
+| **Spironolactone** | This is one of the two common anti-androgens used to suppress testosterone. Its on-label use is a blood pressure medication. |
+| **Cyproterone** | This is the second of the two common anti-androgens used in Ontario. Its on-label use is part of the process to treat prostate cancer. |
 | **Bicalutamide & GnRH Agonists** | |
 
 #### Progestogens 
@@ -84,6 +91,12 @@ Other drugs, such as SERMs, are often treated as 'experimental' approaches becau
 
 Masculinising hormone therapy is used to make changes (i.e., secondary sex characteristics) in the body that are caused by male hormones during puberty. 
 
+### Quick Guides for Masculinising HRT
+
+- [Masculinizing Hormone Therapy](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html) by Rainbow Health Ontario 
+  - [Quick Reference Guide for Primary Care Providers](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf)
+- [Hormones: A Guide for FTMs](https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_FTM.pdf) by Trans Care Project
+
 ### Commonly Used Medications for Feminising HRT
 
 #### Testosterone 
@@ -91,16 +104,5 @@ Masculinising hormone therapy is used to make changes (i.e., secondary sex chara
 #### DHT Blockers
 
 **Finasteride**
-
-## HRT Quick Guides
-Quick Guides for Hormone Therapy
-
-| Type | Source | Links | 
-| :----- | :----- | :----- | :----- | 
-| Feminising HRT | Rainbow Health Ontario | <a href="https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html"><i class="fa fa-solid fa-globe fa-lg"></i></a> <a href="https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf"><i class="fa fa-solid fa-file-pdf"></i></a> | 
-| | Transfeminine Science | <a href="https://transfemscience.org/articles/transfem-intro/"><i class="fa fa-solid fa-globe fa-lg"></i></a> | 
-| | Trans Care Project | <a href="https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_MTF.pdf"><i class="fa fa-regular fa-file fa-lg"></i></a> |
-Masculinising HRT | Rainbow Health Ontario | <a href="https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html"><i class="fa fa-solid fa-globe fa-lg"></i></a> <a href="https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf"><i class="fa fa-regular fa-file fa-lg"></i></a> |
-| | Trans Care Project | <a href="https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_FTM.pdf"><i class="fa fa-regular fa-file fa-lg"></i></a> |
 
 ## Sources
