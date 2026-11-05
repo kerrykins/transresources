@@ -11,9 +11,17 @@ folder: mydoc
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
 
+## 1.1.11
+
+**gac_hrt**
+- Added new headings under commonly used medications
+
 ## 1.1.10
 
 - Renamed domain
+
+**gac_hrt**
+- Adjusting icon size
 
 ## 1.1.9
 

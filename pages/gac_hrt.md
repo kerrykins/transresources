@@ -31,11 +31,49 @@ Feminising hormone therapy is used to make changes (i.e., secondary sex characte
 
 ### Commonly Used Medications for Feminising HRT
 
+Below are a list of commonly used medications for feminising HRT. In Ontario, you will most often find the use of estrogens, anti-androgens, and progestogens in feminising HRT. SERMs are not included in the official Rainbow Health Ontario guidelines. 
+
+#### Estrogens 
+
+**17-beta estradiol**
+
+**Ethinyl estradiol & Conjugated equine estrogens (Premarin)**
+
+#### Anti-Androgens 
+
+**Spironolactone**
+
+**Cyproterone (Cyproterone Acetate)**
+
+**Bicalutamide & GnRH Agonists**
+
+#### Progestogens 
+
+**Prometrium
+
+**Synthetic progestins**
+
+#### Selective Estrogen Receptor Modulators (SERMs)
+
+**Raloxifene**
+
+**Tamoxifen, Toremifene, Clomiphene**
+
+#### Other 
+
+**Dutasteride**
+
 ## Masculinising Hormone Therapy 
 
 Masculinising hormone therapy is used to make changes (i.e., secondary sex characteristics) in the body that are caused by male hormones during puberty. 
 
 ### Commonly Used Medications for Feminising HRT
+
+#### Testosterone 
+
+#### DHT Blockers
+
+**Finasteride**
 
 ## Informed Consent 
 
@@ -46,7 +84,7 @@ Quick Guides for Hormone Therapy
 
 | Type | Source | Links | 
 | :----- | :----- | :----- | :----- | 
-| Feminising HRT | Rainbow Health Ontario | <a href="https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html"><i class="fa fa-solid fa-globe fa-lg"></i></a> <a href="https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf"><i class="fa fa-solid fa-file-pdf fa-lg"></i></a> | 
+| Feminising HRT | Rainbow Health Ontario | <a href="https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html"><i class="fa fa-solid fa-globe fa-lg"></i></a> <a href="https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf"><i class="fa fa-solid fa-file-pdf"></i></a> | 
 | | Transfeminine Science | <a href="https://transfemscience.org/articles/transfem-intro/"><i class="fa fa-solid fa-globe fa-lg"></i></a> | 
 | | Trans Care Project | <a href="https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_MTF.pdf"><i class="fa fa-regular fa-file fa-lg"></i></a> |
 Masculinising HRT | Rainbow Health Ontario | <a href="https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html"><i class="fa fa-solid fa-globe fa-lg"></i></a> <a href="https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf"><i class="fa fa-regular fa-file fa-lg"></i></a> |
