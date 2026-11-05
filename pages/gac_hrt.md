@@ -25,43 +25,60 @@ datatable: true
 
 \- Safer Six Inclusive Health Clinic
 
+## Informed Consent 
+
+Under the **informed consent model** (ICM), providers can prescribe hormones without requiring psychological evaluations or a formal diagnosis of gender dysphoria. 
+
+In Ontario, if you are receiving HRT in the formal healthcare setting, your provider will go through - at length - about the risks associated with the prescription drugs you ultimately choose for your HRT regimen. 
+Different drug (and delivery) options are available because our bodies are different (e.g., risk profiles, affinity with a chosen drug, goals, etc). 
+
+{% include note.html content="Often, some drugs are used off-label for HRT. This means that the drug is primarily used to treat certain medical issues. Do not panic if the pharmacy pamplet coming with the drug does not mention HRT, or if you may face OHIP coverage hurdles (e.g., requiring an Exceptional Access Program request from your provider)." %}
+
 ## Feminising Hormone Therapy 
 
 Feminising hormone therapy is used to make changes (i.e., secondary sex characteristics) in the body that are caused by female hormones during puberty. 
 
-### Commonly Used Medications for Feminising HRT
+### Medications for Feminising HRT
 
-Below are a list of commonly used medications for feminising HRT. In Ontario, you will most often find the use of estrogens, anti-androgens, and progestogens in feminising HRT. SERMs are not included in the official Rainbow Health Ontario guidelines. 
+Below are a list of medications used for feminising HRT. In Ontario, you will see the use of estrogens, anti-androgens, and progestogens in standard feminising HRT. Standard HRT regimens are safe, established, and evidence-based practices backed by WPATH, major endocrinology organisations, and Ontario Health guidelines.
+
+Other drugs, such as SERMs, are often treated as 'experimental' approaches because they are used off-guideline for customised regimens (e.g., for specific goals by a non-binary person). These patients are actively operating outside of established clinical guidelines and are actively advocating for themselves. There are *some* providers - very little anecdotal experiences in Canada - that are willing to consider 'experimental' approaches.  
 
 #### Estrogens 
 
-**17-beta estradiol**
-
-**Ethinyl estradiol & Conjugated equine estrogens (Premarin)**
+| Name | Description |
+| :----- | :----- | 
+| **17-beta estradiol** | This is the most commonly - and recommended - *bioidentical* class of estrogen for feminising hormone therapy. It is most commonly taken orally (tablets), transdermal (patches or gel), or through injections. <br> <br> Each drug delivery route has its own pros and cons, and the linked resources in this guide will discuss them at length. 
+| **Ethinyl estradiol & Conjugated equine estrogens (Premarin)** | These are synthetic or animal-derived estrogens. *They are generally NOT recommended for gender affirming care due to a significantly increased risk of blood clots and cardiovascular side effects.*  |
 
 #### Anti-Androgens 
 
-**Spironolactone**
-
-**Cyproterone (Cyproterone Acetate)**
-
-**Bicalutamide & GnRH Agonists**
+| Name | Description |
+| :----- | :----- | 
+| **Spironolactone** | This is one of the two common anti-androgens used to suppress testosterone. It's on-label use is a blood pressure medication. |
+| **Cyproterone** | This is the second of the two common anti-androgens used in Ontario. It's on-label use is part of the process to treat prostate cancer. |
+| **Bicalutamide & GnRH Agonists** | |
 
 #### Progestogens 
 
-**Prometrium
-
-**Synthetic progestins**
+| Name | Description |
+| :----- | :----- | 
+| **Prometrium** | |
+| **Synthetic progestins** | |
 
 #### Selective Estrogen Receptor Modulators (SERMs)
 
-**Raloxifene**
-
-**Tamoxifen, Toremifene, Clomiphene**
+| Name | Description |
+| :----- | :----- | 
+| **Raloxifene** | A SERM used experimentally (often by non-binary people) seeking feminisation (i.e., skin softening) *without* breast development. In short, it acts as an estrogen in most of the body but is anti-estrogenic in breast tissue. Anecdotally, it is combined with an anti-androgen or with a very low dose of estrogen. |
+| **Tamoxifen, Toremifene, Clomiphene** | These are SERMs most often seen in breast cancer or fertility treatments. It is often avoided in gender affirming care given its higher risks, effectiveness (compared to other options), or costs. |
 
 #### Other 
 
-**Dutasteride**
+| Name | Description |
+| :----- | :----- | 
+| **Dutasteride** | |
+
 
 ## Masculinising Hormone Therapy 
 
@@ -75,10 +92,6 @@ Masculinising hormone therapy is used to make changes (i.e., secondary sex chara
 
 **Finasteride**
 
-## Informed Consent 
-
-Under the **informed consent model** (ICM), providers can prescribe hormones without requiring psychological evaluations or a formal diagnosis of gender dysphoria. 
-
 ## HRT Quick Guides
 Quick Guides for Hormone Therapy
 
@@ -90,3 +103,4 @@ Quick Guides for Hormone Therapy
 Masculinising HRT | Rainbow Health Ontario | <a href="https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html"><i class="fa fa-solid fa-globe fa-lg"></i></a> <a href="https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf"><i class="fa fa-regular fa-file fa-lg"></i></a> |
 | | Trans Care Project | <a href="https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_FTM.pdf"><i class="fa fa-regular fa-file fa-lg"></i></a> |
 
+## Sources

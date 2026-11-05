@@ -11,6 +11,11 @@ folder: mydoc
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
 
+## 1.1.12
+
+**gac_hrt**
+- Added information. Added tables for formatting. 
+
 ## 1.1.11
 
 **gac_hrt**
@@ -86,6 +91,8 @@ css
 - New page to share platform and services that allows users to create and share their identity information.
 
 ## 1.1.0
+
+November 4, 2026
 
 **res_shortcomings**
 - Fixed spelling errors.
