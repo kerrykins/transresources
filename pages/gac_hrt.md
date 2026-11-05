@@ -54,5 +54,7 @@ Masculinising HRT | Rainbow Health Ontario | <a href="https://www.rainbowhealtho
 
 <a href="https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf"><i class="fa fa-regular fa-file-pdf fa-lg"></i></a>
 
+<a href="https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf"><i class="fa fa-regular fa-file-pdf"></i></a>
+
 
 
