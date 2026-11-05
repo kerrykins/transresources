@@ -13,7 +13,7 @@ Topnav dropdowns
         - title: About Author & Contact
             extenal_url: https://kerrykins.github.io/transresources/author.html
         - title: Feedback/Bugs/Incorrect Info
-            external_url: https://kerrykins.github.io/transresources/reportissue.html
+            external_url: 
         - title: Make a Report 
             external_url: https://github.com/kerrykins/transresources/issues/
 
