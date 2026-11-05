@@ -9,7 +9,7 @@ sidebar: mydoc_sidebar
 
 To report a bug, suggest a feature or page, or report incorrect information, please use the following steps.
 
-## Option 1 (preferred)**: Github Issues 
+## Option 1 (preferred): Github
 
 {% include note.html content="You need a Github account to make an issue ticket." %}
 
@@ -18,7 +18,7 @@ To report a bug, suggest a feature or page, or report incorrect information, ple
 
 I will endeavour to address these as soon as a I can. All changes will be noted publicly. Note  
 
-## Option 2**: Discord 
+## Option 2: Discord 
 
 {% include tip.html content="Please let me know you're DM'ing me about the guide or I might not accept your DM." %}
 
