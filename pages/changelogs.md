@@ -4,12 +4,20 @@ permalink: changelogs.html
 sidebar: mydoc_sidebar
 tags: []
 keywords: 
-last_updated: November 4, 2026
+last_updated: November 5, 2026
 toc: true
 folder: mydoc
 ---
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
+
+## 1.1.14
+
+**gac_nb**
+- Added new alert. 
+
+**gac_hrt**
+- Added new information
 
 ## 1.1.13
 

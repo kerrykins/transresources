@@ -2,7 +2,7 @@
 title: Hormone Replacement Therapy (HRT)
 tags: [medical_care, guidelines, hrt]
 keywords: 
-last_updated: November 4, 2026
+last_updated: November 5, 2026
 summary: "A brief introduction to hormone replacement therapy (HRT) in Ontario, Canada"
 sidebar: mydoc_sidebar
 permalink: gac_hrt.html
@@ -47,7 +47,7 @@ Feminising hormone therapy is used to make changes (i.e., secondary sex characte
 
 ### Medications for Feminising HRT
 
-Below are a list of medications used for feminising HRT. In Ontario, you will see the use of estrogens, anti-androgens, and progestogens in standard feminising HRT. Standard HRT regimens are safe, established, and evidence-based practices backed by WPATH, major endocrinology organisations, and Ontario Health guidelines.
+Below are a list of medications used for feminising HRT. In Ontario, you will see the use of estrogens, anti-androgens, and in more limited cases, progestogens, in standard feminising HRT. Standard HRT regimens are safe, established, and evidence-based practices backed by WPATH, major endocrinology organisations, and Ontario Health guidelines.
 
 Other drugs, such as SERMs, are often treated as 'experimental' approaches because they are used off-guideline for customised regimens (e.g., for specific goals by a non-binary person). These patients are actively operating outside of established clinical guidelines and are actively advocating for themselves. There are *some* providers - very little anecdotal experiences in Canada - that are willing to consider 'experimental' approaches.  
 
@@ -68,10 +68,12 @@ Other drugs, such as SERMs, are often treated as 'experimental' approaches becau
 
 #### Progestogens 
 
+Progestins use continues to be controversial. There are anecdotal reports that progestins contribute to better breast development, mood, sleep, and libido. It can be considered a 'wildcard' where some experiences favourable effects while others experience negative effects. 
+
 | Name | Description |
 | :----- | :----- | 
-| **Prometrium** | |
-| **Synthetic progestins** | |
+| **Progesterone (Prometrium)** | This is the most common *bioidentical* form added to some feminising regimens. |
+| **Synthetic progestins** | These are *sometimes* used but can carry higher potential risks such as blood clots. |
 
 #### Selective Estrogen Receptor Modulators (SERMs)
 
@@ -93,9 +95,9 @@ Masculinising hormone therapy is used to make changes (i.e., secondary sex chara
 
 ### Quick Guides for Masculinising HRT
 
-- [Masculinizing Hormone Therapy](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html) by Rainbow Health Ontario 
+- [Masculinizing Hormone Therapy](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html) from Rainbow Health Ontario 
   - [Quick Reference Guide for Primary Care Providers](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf)
-- [Hormones: A Guide for FTMs](https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_FTM.pdf) by Trans Care Project
+- [Hormones: A Guide for FTMs](https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_FTM.pdf) from Trans Care Project
 
 ### Commonly Used Medications for Feminising HRT
 

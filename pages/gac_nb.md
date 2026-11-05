@@ -11,6 +11,8 @@ datatable: true
 
 {% include warning.html content="This section is incomplete and is a work in progress." %}
 
+{% include warning.html content="If you are using information mentioned in this page to advocate for yourself, **use the primary sources linked throughout this page as support** rather than this community-written page." %}
+
 ## Overview
 
 Official guidelines lack regimens for tailored outcomes for non-binary people. Many providers defer to 'micro-dosing' standard regimens. This can be challenging for non-binary people seeking specific goals. Non-binary people often face more gatekeeping in the formal healthcare system. Because of this, some non-binary people will turn to DIY HRT as it is harder to find experimental treatments in the formal healthcare system.
