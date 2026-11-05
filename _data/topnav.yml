@@ -6,7 +6,7 @@ topnav:
     - title: Kerry's Blog
       external_url: https://kerrykins.github.io
 
-Topnav dropdowns
+#Topnav dropdowns
  topnav_dropdowns:
 - title: Topnav dropdowns
     folders:
