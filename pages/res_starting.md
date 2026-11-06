@@ -24,7 +24,7 @@ permalink: res_starting.html
   - [Transfeminine Folx](https://tinyurl.com/566p6u4v)
   - [Transmasculine Folx](https://tinyurl.com/mvs4w294)
   
-{% include tip.html content="Some people like to create and share a digital identity profile (e.g., to share their new pronouns) when they begin transitioning. See more information on this [here](/transresources/res_digitalprofile.html)" %}
+{% include tip.html content="Some people like to create and share a digital identity profile (e.g., to share their new pronouns) when they begin transitioning. See more information on this [here](/transresources/res_digitalprofile.html)." %}
   
 ## Changing Your Legal Documents
 

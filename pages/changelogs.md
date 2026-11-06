@@ -4,12 +4,20 @@ permalink: changelogs.html
 sidebar: mydoc_sidebar
 tags: []
 keywords: 
-last_updated: November 5, 2026
+last_updated: November 6, 2026
 toc: false
 folder: mydoc
 ---
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
+
+## 1.1.18
+
+**london_id**
+- Adjusted formatting 
+
+**london_pharmacy** 
+- Added new pharmacy based on community feedback (issue #1) 
 
 ## 1.1.17
 
