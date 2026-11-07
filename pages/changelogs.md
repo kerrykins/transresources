@@ -25,6 +25,9 @@ Beginning November 2, 2026, changes made with each version history will be noted
 **status**
 - Added new page to be worked on (preventative care)
 
+**london_socials**
+- Added website and social media links to organisations running recurring events.
+
 ## 1.1.18
 
 **london_id**
