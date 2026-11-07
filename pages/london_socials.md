@@ -46,11 +46,11 @@ Below is a list of recurring trans-friendly events in London, ON. The organisati
 
 | Organisation | Links |
 | :----- | :----: | 
-| pflag London | <a href="h"><i class="fa fa-instagram fa-lg"></i></a> |  
-| Queer Intersections (QX) | <a href="h"><i class="fa fa-solid fa-globe fa-lg"></i></a> <a href="h"><i class="fa fa-instagram fa-lg"></i></a> |  
-| London Public Library (LPL) | <a href="h"><i class="fa fa-solid fa-globe fa-lg"></i></a> <a href="h"><i class="fa fa-instagram fa-lg"></i></a> |  
-| Frontrunners | <a href="h"><i class="fa fa-instagram fa-lg"></i></a> <a href="h"><i class="fa-brands fa-strava fa-lg"></i></a>|  
-| Queer Nexus | <a href="h"><i class="fa fa-brands fa-discord fa-lg"></i></a> <a href="h"><i class="fa  fa-brands fa-facebook fa-lg"></i></a>|  
+| pflag London | <a href="h"><i class="fa-brands fa-instagram fa-lg"></i></a> |  
+| Queer Intersections (QX) | <a href="h"><i class="fa-solid fa-globe fa-lg"></i></a> <a href="h"><i class="fa-brands fa-instagram fa-lg"></i></a> |  
+| London Public Library (LPL) | <a href="h"><i class="fa-solid fa-globe fa-lg"></i></a> <a href="h"><i class="fa-brands fa-instagram fa-lg"></i></a> |  
+| Frontrunners | <a href="h"><i class="fa-brands fa-instagram fa-lg"></i></a> <a href="h"><i class="fa-brands fa-strava fa-lg"></i></a>|  
+| Queer Nexus | <a href="h"><i class="fa-brands fa-discord fa-lg"></i></a> <a href="h"><i class="fa-brands fa-facebook fa-lg"></i></a>|  
 
 ## Trans-Friendly Social Venues
 
