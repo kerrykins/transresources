@@ -11,6 +11,15 @@ folder: mydoc
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
 
+## 1.1.20
+
+- Updated font awesome to v.7.x.x
+- Fixed html errors in 1.1.19a-x
+
+**london_socials**
+- Reformatted links from table to list 
+- Fixed icon links and icons 
+
 ## 1.1.19
 
 **london_pharmacy** 

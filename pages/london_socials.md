@@ -44,13 +44,11 @@ Below is a list of recurring trans-friendly events in London, ON. The organisati
 
 ### Organisers
 
-| Organisation | Links |
-| :----- | :----: | 
-| pflag London | <a href="h"><i class="fa-brands fa-instagram fa-lg"></i></a> |  
-| Queer Intersections (QX) | <a href="h"><i class="fa-solid fa-globe fa-lg"></i></a> <a href="h"><i class="fa-brands fa-instagram fa-lg"></i></a> |  
-| London Public Library (LPL) | <a href="h"><i class="fa-solid fa-globe fa-lg"></i></a> <a href="h"><i class="fa-brands fa-instagram fa-lg"></i></a> |  
-| Frontrunners | <a href="h"><i class="fa-brands fa-instagram fa-lg"></i></a> <a href="h"><i class="fa-brands fa-strava fa-lg"></i></a>|  
-| Queer Nexus | <a href="h"><i class="fa-brands fa-discord fa-lg"></i></a> <a href="h"><i class="fa-brands fa-facebook fa-lg"></i></a>|  
+- Frontrunners <a href="https://www.instagram.com/frontrunnersldnont/"><i class="fa-brands fa-instagram fa-lg"></i></a> <a href="https://www.strava.com/clubs/frontrunnersldnont"><i class="fa-brands fa-strava fa-lg"></i></a>
+- London Public Library (LPL) <a href="https://www.lpl.ca/"><i class="fa-solid fa-globe fa-lg"></i></a> <a href="https://www.instagram.com/londonlibrary/"><i class="fa-brands fa-instagram fa-lg"></i></a>
+- pflag London <a href="https://www.pflaglondon.ca/"><i class="fa-solid fa-globe fa-lg"></i></a> <a href="https://www.instagram.com/pflaglondonon/"><i class="fa-brands fa-instagram fa-lg"></i></a>
+- Queer Intersections (QX) <a href="https://www.qxcanada.org/"><i class="fa-solid fa-globe fa-lg"></i></a> <a href="https://www.instagram.com/qxcanadaorg"><i class="fa-brands fa-instagram fa-lg"></i></a>
+- Queer Nexus (QN) <a href="https://discord.gg/nR9qrjZCHG"><i class="fa-brands fa-discord fa-lg"></i></a> <a href="https://www.facebook.com/groups/1630642707185274"><i class="fa-brands fa-facebook fa-lg"></i></a>
 
 ## Trans-Friendly Social Venues
 
