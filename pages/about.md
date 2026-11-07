@@ -4,7 +4,7 @@ permalink: about.html
 sidebar: mydoc_sidebar
 tags: [getting_started]
 keywords: frequently asked questions, FAQ, question and answer, collapsible sections, expand, collapse
-last_updated: November 1, 2026
+last_updated: November 6, 2026
 summary: "A list of frequently asked questions and answers related to this guide."
 toc: false
 folder: mydoc
@@ -45,7 +45,7 @@ folder: mydoc
                         </div>
                         <div id="collapseThree" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body" markdown="span">
-                               You can [message me on Discord](https://discord.com/users/292823530637361154). Please let me know you're DM'ing me about the guide or I might not accept your DM. 
+                               You can [open a ticket](https://github.com/kerrykins/transresources/issues) on the github page or [message me on Discord](https://discord.com/users/292823530637361154). Please let me know you're DM'ing me about the guide or I might not accept your DM. <br> <br> For more information, see [here](https://kerrykins.github.io/transresources/reportissue.html). 
                             </div>
                         </div>
                     </div>
@@ -71,7 +71,7 @@ folder: mydoc
                         </div>
                         <div id="collapseFive" class="panel-collapse collapse">
                             <div class="panel-body" markdown="span">
-                                Please, please, please with a dozen cherries on top send them to me! I'm just one enby and it is certain I would've missed something. Please send me a [message on Discord](https://discord.com/users/292823530637361154) and I'll make sure to add it on the guide!
+                                Please, please, please with a dozen cherries on top send them to me! I'm just one enby and it is certain I would've missed something. Please send me a [message on Discord](https://discord.com/users/292823530637361154) or [open a ticket](https://github.com/kerrykins/transresources/issues) on the github page and I'll make sure to add it on the guide!
                             </div>
                         </div>
                     </div>

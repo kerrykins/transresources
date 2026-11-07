@@ -8,7 +8,7 @@ sidebar: mydoc_sidebar
 permalink: london_pharmacy.html
 ---
 
-{% include note.html content="For information and tips about prescriptions in Ontario, please see [this page](https://kerrykins.github.io/transresourceslondonON/res_prescriptions.html)." %}
+{% include note.html content="For information and tips about prescriptions in Ontario, please see [this page](/transresources/res_prescriptions.html)." %}
 
 {% include note.html content="In Canada, controlled substances such as **testosterone** can be transferred to a new pharmacy (within 2 years of the date of receipt)." %}
 

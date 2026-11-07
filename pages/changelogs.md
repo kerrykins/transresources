@@ -4,12 +4,26 @@ permalink: changelogs.html
 sidebar: mydoc_sidebar
 tags: []
 keywords: 
-last_updated: November 6, 2026
+last_updated: November 7, 2026
 toc: false
 folder: mydoc
 ---
 
 Beginning November 2, 2026, changes made with each version history will be noted here. 
+
+## 1.1.19
+
+**london_pharmacy** 
+- Fixing broken link. 
+
+**about**
+- Changing answers to some questions in the FAQ with new support/feedback pages.
+
+**gac_prevent**
+- Adding new page for preventative care info
+
+**status**
+- Added new page to be worked on (preventative care)
 
 ## 1.1.18
 

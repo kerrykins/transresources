@@ -16,7 +16,7 @@ To report a bug, suggest a feature or page, or report incorrect information, ple
 1. Navigate to the reporistory page's [issues tab](https://github.com/kerrykins/transresources/issues/).
 2. Submit a new issue. Choose from one of the existing templates or write your own issue report. 
 
-I will endeavour to address these as soon as a I can. All changes will be noted publicly. Note  
+I will endeavour to address these as soon as a I can. All changes will be noted publicly. 
 
 ## Option 2: Discord 
 

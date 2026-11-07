@@ -2,7 +2,7 @@
 title: Trans & Queer Social Life
 tags: [social, LondonON]
 keywords: 
-last_updated: November 4, 2026
+last_updated: November 7, 2026
 summary: "Fun things to do for the trans community in London, ON"
 sidebar: mydoc_sidebar
 permalink: london_social.html
@@ -14,6 +14,8 @@ datatable: true
 {% include tip.html content="**All events listed are queer-friendly.** <br> 🏳️‍⚧ are events specifically for the trans community (including non-binary and other gender-diverse folx) <br> 🔞 are events that are 18+ <br> <br> Only recurring events are listed here. A weekly event calendar is published to the Queer Nexus Discord server." %}
 
 ## Recurring Events
+
+Below is a list of recurring trans-friendly events in London, ON. The organisation's website and social media is linked below the table. 
 
 | Event Name | Type | Date & Time | Location | Free? | 
 | :------ | :------ | :------ | :------ | :------ | :------ | 
@@ -40,6 +42,15 @@ datatable: true
 | **Trans\* London Social** 🏳️‍⚧️ <br> *by pflag London*| <span class="label label-default">Social</span> | 4th Wednesday <br> 6pm-8:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a>  | ✔ | 
 | **Trans & NB Munch** 🔞 🏳️‍⚧️ | <span class="label label-default">Social</span> <br> <span class="label label-danger">Adults (18+)</span> | 2nd Saturday <br> 3:30pm-5:30pm | <a href="#" data-toggle="tooltip" data-original-title="{{site.data.terms.lochidden}}">Location Hidden</a> <br> <a href="#" data-toggle="tooltip" data-original-title="Prior approval from the organisers required to be able to attend this event.">Approval Needed</a> | ✔ | 
 
+### Organisers
+
+| Organisation | Links |
+| :----- | :----: | 
+| pflag London | <a href="h"><i class="fa fa-solid fa-globe fa-lg"></i></a> <a href="h"><i class="fa fa-instagram fa-lg"></i></a> |  
+| Queer Intersections (QX) | <a href="h"><i class="fa fa-solid fa-globe fa-lg"></i></a> <a href="h"><i class="fa fa-instagram fa-lg"></i></a> |  
+| London Public Library (LPL) | <a href="h"><i class="fa fa-solid fa-globe fa-lg"></i></a> <a href="h"><i class="fa fa-instagram fa-lg"></i></a> |  
+| Frontrunners | <a href="h"><i class="fa fa-instagram fa-lg"></i></a> <a href="h"><i class="fa fa-brands fa-strava fa-lg"></i></a>|  
+| Queer Nexus | <a href="h"><i class="fa fa-brands fa-discord fa-lg"></i></a> <a href="h"><i class="fa  fa-brands fa-facebook fa-lg"></i></a>|  
 
 ## Trans-Friendly Social Venues
 
